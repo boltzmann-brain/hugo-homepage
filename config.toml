@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Leif Hancox-Li"
+
+[params]
+    author = "Leif Hancox-Li"
+    description = "Leif Hancox-Li's personal website"
+    info = "Technical Writer and Data Science Researcher"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "No, the code does not document itself."
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = false
+    hideCopyright = false
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/qwermish/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/leif-hancox-li-1a6a7a132/"
+
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Experience"
+    weight = 2
+    url  = "/resume/"
