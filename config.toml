@@ -1,12 +1,23 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "http://boltzmann-brain.github.io/"
 title = "Leif Hancox-Li"
+
+theme = "hugo-coder"
+
+languageCode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Leif Hancox-Li"
     description = "Leif Hancox-Li's personal website"
     info = "Technical Writer and Data Science Researcher"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/smiling-alien.png"
     footercontent = "No, the code does not document itself."
 
     dateformat = "January 2, 2006"
@@ -18,7 +29,7 @@ title = "Leif Hancox-Li"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/qwermish/"
+    url = "https://github.com/boltzmann-brain"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
