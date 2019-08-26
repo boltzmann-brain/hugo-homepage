@@ -1,17 +1,17 @@
 ---
 title: "Experience"
 date: 2019-07-06T16:42:37-04:00
-draft: true
+draft: false
 ---
 
-My resume is also available [in PDF form](https://www.dropbox.com/s/xpcxulajzzr3h89/blue-resume.pdf?dl=0).
+My resume is also available [in PDF form](https://www.dropbox.com/s/xpcxulajzzr3h89/blue-resume.pdf?dl=0). Alternatively, you can view my [LinkedIn profile](https://www.linkedin.com/in/leif-hancox-li-1a6a7a132/).
 
 ## Work
 
 #### Technical Writer and Researcher, Capital One
 2019 - present
 
-- Write tutorials and other documentation for a Kubernetes cloud platform.
+- Write tutorials, conceptual guides, and other documentation for a Kubernetes cloud platform.
 - Do research on fair and explainable machine learning.
 - Write playbook for data scientists providing guidance on best practices for responsible AI.
 
@@ -21,12 +21,12 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/xpcxulajzzr3
 - Create, manage, and edit diverse types of documentation, including user guides, configuration guides for systems administrators, and API tutorials for third-party developers.
 - Wrote text for user interfaces and provided recommendations on improving the user experience for these interfaces.
 - Research software features and user needs by interviewing product managers, support, developers, and sales engineers.
-- Promoted to Senior Technical Writer after 1.5 years for leading initiatives to improve user experience of online documentation.
+- Promoted to Senior Technical Writer after 1.5 years for proposing and leading initiatives to improve user experience of online documentation.
 
 #### Freelance API Technical Writer
 Part-time, 2018
 
-- Write sample Python web applications and tutorials for MessageBird’s REST API. Click [here](https://github.com/messagebirdguides/verify-voice-guide-python) and [here](https://github.com/messagebirdguides/verify-voice-guide-python) for samples.
+- Write sample Python web applications and tutorials for MessageBird’s REST API. Click [here](https://github.com/messagebirdguides/verify-voice-guide-python) and [here](https://github.com/messagebirdguides/notifications-guide-python) for samples.
 
 #### Editor, Research Square
 Part-time, 2017 - 2019
@@ -44,7 +44,7 @@ Part-time, 2017 - 2019
 
 - Independently planned and carried out multi-year research project, culminating in PhD dissertation.
 - Designed and taught courses on statistical reasoning, ethics, and history of philosophy.
-- Published peer-reviewed research on mathematical modeling strategies in quantum field theory.
+- Published [peer-reviewed research](../papers/) on mathematical modeling strategies in quantum field theory.
 
 #### Research Officer, Bioinformatics Institute (Singapore)
 2007 - 2009
