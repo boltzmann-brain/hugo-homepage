@@ -1,4 +1,4 @@
-baseURL = "http://boltzmann-brain.github.io/"
+baseURL = "https://boltzmann-brain.github.io/"
 title = "Leif Hancox-Li"
 
 theme = "hugo-coder"
