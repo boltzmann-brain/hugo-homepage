@@ -4,7 +4,8 @@ date: 2019-07-07T21:48:16-04:00
 draft: false
 ---
 
-A list of published papers and preprints in feminist philosophy and philosophy of physics.
+A list of published papers and preprints in feminist philosophy and philosophy of physics. 
+You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rzcljaubkzftx/cv.pdf?dl=0).
 
 ## Philosophy of Quantum Field Theory
 
