@@ -4,7 +4,7 @@ date: 2019-07-07T21:48:16-04:00
 draft: false
 ---
 
-A list of my published papers and preprints in machine feminist philosophy and philosophy of science. 
+A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. 
 You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rzcljaubkzftx/cv.pdf?dl=0).
 
 ## Philosophy of Science
