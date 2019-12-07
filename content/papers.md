@@ -12,7 +12,7 @@ You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rz
 "Robustness in Machine Learning Explanations: Does It Matter?" Forthcoming in Conference on Fairness, Accountability, and Transparency (FAT* ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
 
 - Applying the concept of derivational robustness to explanations generated for black-box machine learning models.
-- [Preprint](https://www.dropbox.com/s/ob35dv9rxpni938/sample-authordraft.pdf?dl=0)
+- [Preprint](https://www.dropbox.com/s/u4kwdk9m5o2u2sb/preprint.pdf?dl=0)
 
 "Solutions in Constructive Field Theory," Philosophy of Science 84, no. 2 (April 2017): 335-358.
 
