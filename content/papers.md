@@ -9,10 +9,10 @@ You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rz
 
 ## Philosophy of Science
 
-"Robustness in Machine Learning Explanations: Does It Matter?" Forthcoming in Conference on Fairness, Accountability, and Transparency (FAT* ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
+"Robustness in Machine Learning Explanations: Does It Matter?" Conference on Fairness, Accountability, and Transparency (FAccT ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
 
 - Applying the concept of derivational robustness to explanations generated for black-box machine learning models.
-- [Preprint](https://www.dropbox.com/s/u4kwdk9m5o2u2sb/preprint.pdf?dl=0)
+- [Journal link](https://dl.acm.org/doi/abs/10.1145/3351095.3372836), [Preprint](https://www.dropbox.com/s/u4kwdk9m5o2u2sb/preprint.pdf?dl=0)
 
 "Solutions in Constructive Field Theory," Philosophy of Science 84, no. 2 (April 2017): 335-358.
 
