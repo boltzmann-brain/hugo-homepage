@@ -8,11 +8,16 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/xpcxulajzzr3
 
 ## Work
 
-#### Technical Writer and Researcher, Capital One
-2019 - present
+#### Senior Data Scientist, Capital One
+2020 - present
+
+- Do research on fair and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
+- Educate other Capital One data scientists on best practices for responsible AI, in both text and talk formats.
+
+#### Senior Technical Writer, Capital One
+2019 - 2020
 
 - Write tutorials, conceptual guides, and other documentation for a Kubernetes cloud platform.
-- Do research on fair and explainable machine learning.
 - Write playbook for data scientists providing guidance on best practices for responsible AI.
 
 #### Senior Technical Writer, Laserfiche
