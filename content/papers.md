@@ -7,12 +7,20 @@ draft: false
 A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. 
 You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rzcljaubkzftx/cv.pdf?dl=0).
 
-## Philosophy of Science
+"Epistemic values in feature importance methods: Lessons from feminist epistemology". Forthcoming at the Conference on Fairness, Accountability, and Transparency (FAccT ’21).
+
+- Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology. Preprint will be posted soon.
+
+"[Beyond Methods Reproducibility in Machine Learning](https://ml-retrospectives.github.io/neurips2020/camera_ready/13.pdf)".  [ML-Retrospectives, Surveys & Meta-Analyses Workshop](https://ml-retrospectives.github.io/) at NeurIPS 2020.
+
+- Argues that reproducibility definitions in ML are too focused on methods reproducibility, when in fact we need different types of reproducibilities for different types of claims made by ML experiments.
 
 "Robustness in Machine Learning Explanations: Does It Matter?" Conference on Fairness, Accountability, and Transparency (FAccT ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
 
-- Applying the concept of derivational robustness to explanations generated for black-box machine learning models.
+- Applies the concept of derivational robustness to explanations generated for black-box machine learning models.
 - [Journal link](https://dl.acm.org/doi/abs/10.1145/3351095.3372836), [Preprint](https://www.dropbox.com/s/u4kwdk9m5o2u2sb/preprint.pdf?dl=0)
+
+## Philosophy of Physics
 
 "Solutions in Constructive Field Theory," Philosophy of Science 84, no. 2 (April 2017): 335-358.
 
