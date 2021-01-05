@@ -7,6 +7,8 @@ draft: false
 A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. 
 You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rzcljaubkzftx/cv.pdf?dl=0).
 
+## Philosophy of Machine Learning
+
 "Epistemic values in feature importance methods: Lessons from feminist epistemology". Forthcoming at the Conference on Fairness, Accountability, and Transparency (FAccT ’21).
 
 - Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology. Preprint will be posted soon.
