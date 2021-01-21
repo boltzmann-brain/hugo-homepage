@@ -11,7 +11,8 @@ You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rz
 
 "Epistemic values in feature importance methods: Lessons from feminist epistemology". Forthcoming at the Conference on Fairness, Accountability, and Transparency (FAccT ’21).
 
-- Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology. Preprint will be posted soon.
+- Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology.
+- [Preprint](https://www.dropbox.com/s/h6frbbisr945osd/paper.pdf?dl=0)
 
 "[Beyond Methods Reproducibility in Machine Learning](https://ml-retrospectives.github.io/neurips2020/camera_ready/13.pdf)".  [ML-Retrospectives, Surveys & Meta-Analyses Workshop](https://ml-retrospectives.github.io/) at NeurIPS 2020.
 
