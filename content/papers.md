@@ -9,10 +9,11 @@ You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rz
 
 ## Philosophy of Machine Learning
 
-"Epistemic values in feature importance methods: Lessons from feminist epistemology". Forthcoming at the Conference on Fairness, Accountability, and Transparency (FAccT ’21).
+"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT ’21).
 
 - Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology.
-- [Preprint](https://arxiv.org/abs/2101.12737)
+- Winner of FAccT 2021 best paper award.
+- [Journal link](https://dl.acm.org/doi/10.1145/3442188.3445943), [preprint](https://arxiv.org/abs/2101.12737)
 
 "[Beyond Methods Reproducibility in Machine Learning](https://ml-retrospectives.github.io/neurips2020/camera_ready/13.pdf)".  [ML-Retrospectives, Surveys & Meta-Analyses Workshop](https://ml-retrospectives.github.io/) at NeurIPS 2020.
 
@@ -21,7 +22,7 @@ You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rz
 "Robustness in Machine Learning Explanations: Does It Matter?" Conference on Fairness, Accountability, and Transparency (FAccT ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
 
 - Applies the concept of derivational robustness to explanations generated for black-box machine learning models.
-- [Journal link](https://dl.acm.org/doi/abs/10.1145/3351095.3372836), [Preprint](http://philsci-archive.pitt.edu/16734/)
+- [Journal link](https://dl.acm.org/doi/abs/10.1145/3351095.3372836), [preprint](http://philsci-archive.pitt.edu/16734/)
 
 ## Philosophy of Physics
 
