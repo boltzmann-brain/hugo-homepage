@@ -13,12 +13,12 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/gv2i0rsd2d9w
 
 - Do research on fair and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
 - Consult with model development teams to implement explainability solutions for machine learning models.
-- Educate other Capital One data scientists on best practices for responsible AI, in both text and talk formats.
+- Educate other Capital One data scientists on best practices for responsible AI through both written materials and talks.
 
 #### Senior Technical Writer, Capital One
 2019 - 2020
 
-- Write tutorials, conceptual guides, and other documentation for a Kubernetes cloud platform.
+- Write tutorials, conceptual guides, and other documentation for a Kubernetes machine learning platform.
 - Write playbook for data scientists providing guidance on best practices for responsible AI.
 
 #### Senior Technical Writer, Laserfiche
@@ -74,3 +74,11 @@ Part-time, 2017 - 2019
 2004 - 2007
 
 - Won prize for research in physics and two popular science writing prizes.
+
+## Skills
+
+Machine learning: Tree ensemble models, explainability methods (SHAP, ICE, etc.), fairness definitions
+
+Programming: Python, Kubernetes, Java, C#
+
+Others: Technical communication, user research, project management
