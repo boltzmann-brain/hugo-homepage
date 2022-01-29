@@ -107,7 +107,7 @@ Yes, we computer scientists were all afflicted by a kind of mental illness. We h
 I have been a computer scientist for 18 years and not yet 36 years like Herr Weizenbaum. Perhaps I therefore have a relatively sober relationship with electronic data processing. My computers want me to define every situation much more simply: It is a technical system that produces new information from information.
 
 **Weizenbaum:**
-That I must violently protest. A machine can produce as much information as the energy a power station produces: only transformations take place. Those who maintain that computers produce information, must also think it possible that they produce knowledge, perhaps even Bildung.
+That I must violently protest. A machine can produce as much information as the energy a power station produces: only transformations take place. Those who maintain that computers produce information, must also think it possible that they produce knowledge, perhaps even [*Bildung*](https://en.wikipedia.org/wiki/Bildung).
 
 **Haefner:**
 I don't want to insist on the word "production". For me, one important fundamental principle is that in a computer, structured information gives rise to  new, interesting-to-us messages that we also call "information". So it was with the first big computer, the Mark I in Harvard, and the minicomputers today.
