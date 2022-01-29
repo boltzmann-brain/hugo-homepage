@@ -183,10 +183,10 @@ The computer produces its own reality. This is fundamentally different from the 
 When exactly the day ends is furthermore always an arbitrary decision. We are more certain however that at noon the day dominates and at midnight the night dominates. That implies:  We cannot draw exact boundaries between the living and the non-living. But we know the difference between human and machine as well as that between day and night.
 
 **Spiegel:**
-And for you, Herr Haefner, the computer is an evolutionary and--at least theoretically--unlimitedly adaptive system. Will it one day be much better at everything than we are--and perhaps even a bit more?
+And for you, Herr Haefner, the computer is an evolutionary and---at least theoretically---unlimitedly adaptive system. Will it one day be much better at everything than we are---and perhaps even a bit more?
 
 **Haefner:**
-Yes, basically we can convert all our experiences into computer language. With one important limitation: It must be human experiences, that we are conscious of and that was thought about. From psychology we know that in a human a lot of experience-led processes occur, of which they have no idea. These also cannot be relayed to the external world.
+Yes, basically we can convert all our experiences into computer language. With one important limitation: It must be human experiences, that we are conscious of and that were thought about. From psychology we know that in a human a lot of experience-led processes occur, of which they have no idea. These also cannot be relayed to the external world.
 
 **Spiegel:**
 Are all human experiences transmissible, as long as they are expressed in language and can be communicated?
@@ -319,7 +319,7 @@ For example?
 The tabletop dictation machine with its miniscule tape cassettes. One can easily put that in a jacket pocket. Very practical, no? More than 25 years ago, I visited a colleague in California, who worked in research for Lockheed, all military projects. He showed me a micro-cassette that would be used in missiles for steering towards the target. It then took almost twenty years before commercial usage.
 
 **Spiegel:** 
-Will we in 15 or 20 years celebrate new major advances in technology in the civilian sphere---and in actuality consume the new waste products of the SDI program of the Reagan government?
+Will we in 15 or 20 years celebrate new major advances in technology in the civilian sphere---and in actuality consume the new waste products of the [SDI program](https://en.wikipedia.org/wiki/Strategic_Defense_Initiative) of the Reagan government?
 
 **Haefner:** 
 I see this danger. The whole madness of the SDI project is realizable only with enormous computing power, that has still to be developed. The SDI project introduces enormous technical problems, to which the computer industry will obviously find solutions.
@@ -429,7 +429,7 @@ There is no going back, every reversal is an illusion. I therefore argue for a h
 Where can one find this counterweight?
 
 **Haefner:**
-Certainly the simplest would be an information technology memorandum, similar to the SALT agreement about limiting the arms race. Its content would be: computerization must be slowed down until new, humane meaning systems are found. But such a memorandum is not enforceable in a competition-oriented democracy. One will not find a majority for this in the population. So the only option is to hope that further computerization can at least be kept in its tracks.
+Certainly the simplest would be an information technology memorandum, similar to the [SALT](https://en.wikipedia.org/wiki/Strategic_Arms_Limitation_Talks) agreement about limiting the arms race. Its content would be: computerization must be slowed down until new, humane meaning systems are found. But such a memorandum is not enforceable in a competition-oriented democracy. One will not find a majority for this in the population. So the only option is to hope that further computerization can at least be kept in its tracks.
 
 **Spiegel:**
 Herr Weizenbaum, is your personal computer currently in the workshop?
