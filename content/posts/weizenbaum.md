@@ -9,8 +9,6 @@ externalLink = ""
 series = []
 +++
 
-# Der Spiegel's 1987 interview with Joseph Weizenbaum
-
 A few years ago, I found [this 1987 interview](https://www.spiegel.de/politik/es-ist-eine-explosion-des-quatsches-a-e93673ef-0002-0001-0000-000013520856) with the early AI researcher-turned-AI skeptic [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum). It covers a lot of ground, such as the military-industrial complex, whether computers can capture human experience, and other points that today's AI skeptics will be sympathetic to. (These themes were also covered in longer form in his book, [Computer Power and Human Reason](https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason).) As far as I know, there isn't an English translation of this interview available. I decided to translate it to practice my German. As I'm neither a native speaker nor use German regularly, please excuse any errors and let me know of them.
 
 Here's the translated interview.
