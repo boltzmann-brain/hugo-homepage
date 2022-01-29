@@ -81,7 +81,7 @@ Most programs still do not allow for free, creative work with the PC. Here, in t
 The computer teaching programs that have been very successful in the US market show notably clearly, that creativity cannot be implemented. Since roughly 25 years ago when the first computer teaching programs were developed, everything was promised as possible. Later one had to realize that those were illusions. Now it is hardly otherwise.
 
 **Haefner:**
-At that time something was promised, which was simply not obtainable, namely Bildung. However, we have very good results with imparting skills. There is indeed an irony in there, that those skills best practised with the help of the computer will soon one day be performed better and faster by the computer. For example: Stanford University's first computer learning-programs were pedagogically good exercises for arithmetical operations.
+At that time something was promised, which was simply not obtainable, namely [*Bildung*](https://en.wikipedia.org/wiki/Bildung). However, we have very good results with imparting skills. There is indeed an irony in there, that those skills best practised with the help of the computer will soon one day be performed better and faster by the computer. For example: Stanford University's first computer learning-programs were pedagogically good exercises for arithmetical operations.
 
 Pocket calculators, which carried out these operations at lightning speed, entered the market as they eventually became less expensive. This is the catch-22 of computer-supported lessons: As soon as one knows how to impart a skill, one can be entirely free of humans and leave everything to the computer.
 
