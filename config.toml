@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Leif Hancox-Li"
     description = "Leif Hancox-Li's personal website"
-    info = "Researcher in Responsible AI"
+    info = "Data Scientist and Researcher in Responsible AI"
     avatarurl = "images/smiling-alien.png"
     footercontent = "No, the code does not document itself."
 

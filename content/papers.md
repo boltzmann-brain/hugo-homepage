@@ -9,7 +9,12 @@ You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rz
 
 ## Philosophy of Machine Learning
 
-"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT ’21).
+"Should attention be all we need? The epistemic and ethical implications of unification in machine learning." Forthcoming in Conference on Fairness, Accountability, and Transparency (FAccT ’22). Co-authored with Nic Fishman.
+
+- Assesses the epistemic and ethical risks/benefits of the trend towards unified model architectures in machine learning.
+- [Preprint](https://arxiv.org/abs/2205.08377)
+
+"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT ’21). Co-authored with Lizzie Kumar.
 
 - Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology.
 - Winner of FAccT 2021 best paper award.
