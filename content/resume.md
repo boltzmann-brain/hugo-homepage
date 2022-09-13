@@ -12,7 +12,7 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/gv2i0rsd2d9w
 2020 - present
 
 - Do research on fair and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
-- Implement explainability solutions for machine learning models, customizing each solution to user needs.
+- Research and implement technical explainability solutions (SHAP, LIME, GAMs) for black-box machine learning models, customizing dashboards and visualizations to user needs.
 - Educate other Capital One data scientists on best practices for responsible AI through both written materials and talks.
 
 #### Senior Technical Writer, Capital One
