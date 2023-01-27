@@ -4,7 +4,7 @@ date: 2019-07-06T16:42:37-04:00
 draft: false
 ---
 
-My resume is also available [in PDF form](https://www.dropbox.com/s/gv2i0rsd2d9wohg/Leif%20Hancox-Li-3.pdf?dl=0). Alternatively, you can view my [LinkedIn profile](https://www.linkedin.com/in/leif-hancox-li-1a6a7a132/).
+My resume is also available [in PDF form](https://www.dropbox.com/s/x9pn202amisekhd/%20Leif%20Hancox-Li%20-%20TW-45.pdf?dl=0). Alternatively, you can view my [LinkedIn profile](https://www.linkedin.com/in/leif-hancox-li-1a6a7a132/).
 
 ## Work
 
