@@ -5,7 +5,6 @@ draft: false
 ---
 
 A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. 
-You can also view a copy of my academic CV [here](https://www.dropbox.com/s/w1rzcljaubkzftx/cv.pdf?dl=0).
 
 ## Philosophy of Machine Learning
 
