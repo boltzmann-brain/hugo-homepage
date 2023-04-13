@@ -1,5 +1,5 @@
 ---
-title: "The week in Responsible AI: Apr 12, 2023"
+title: "This week in Responsible AI: Apr 12, 2023"
 date: 2023-04-12T13:04:09-05:00
 draft: false
 ---
