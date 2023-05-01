@@ -16,7 +16,7 @@ draft: false
 
 - [Europe spins up AI research hub to apply accountability rules on Big Tech](https://techcrunch.com/2023/04/18/ecat/?utm_source=substack&utm_medium=email)
 
-
+- [A Look at Global Deepfake Regulation Approaches](https://www.responsible.ai/post/a-look-at-global-deepfake-regulation-approaches?utm_medium=email&_hsmi=256055419&_hsenc=p2ANqtz-9xgxSuT8fAD1wgsQIFNAmFk2J-sp695v2DJd-hC0RuVmd2CEyc5Erkb5sHaURPMZW7vUUb1lBybtXoRuPKqtYieihzYg&utm_content=256055419&utm_source=hs_email)
 
 
 ## AI Harms
@@ -35,6 +35,8 @@ draft: false
 
 - [Risks of using large language models in science](https://www.nature.com/articles/s42254-023-00581-4)
 
+- [How Recidivism Risk Assessments Impede Justice](https://points.datasociety.net/how-recidivism-risk-assessments-impact-justice-65c6459243cc)
+
 ## Tools/Best Practices
 
 - [Translating intersectionality to fair machine learning in health sciences](https://www.nature.com/articles/s42256-023-00651-3)
@@ -46,9 +48,14 @@ draft: false
 
 - [How Shady Companies Guess Your Religion, Sexual Orientation, and Mental Health](https://slate.com/technology/2023/04/data-broker-inference-privacy-legislation.html?mc_cid=4140c76b38&mc_eid=f14ac890df)
 
+- [What does it mean for a camera to be "face recognition capable"?](https://r.algorithmwatch.org/nl3/_91DjJwFllyJMEm-dBCvDQ)
+
 ## Generative models
 
 - [Inside the Discord Where Thousands of Rogue Producers Are Making AI Music](https://www.vice.com/en/article/y3wdj7/inside-the-discord-where-thousands-of-rogue-producers-are-making-ai-music?utm_source=substack&utm_medium=email)
 
 - [Editor 'relieved of duties' and publishing house apologizes after German magazine's fake AI interview with Michael Schumacher](https://www.cnn.com/2023/04/22/motorsport/michael-schumacher-fake-ai-interview-apology-spt-intl/index.html)
 
+- [Quantifying ChatGPT's gender bias](https://aisnakeoil.substack.com/p/quantifying-chatgpts-gender-bias?utm_source=substack&utm_medium=email)
+
+- [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/?utm_source=substack&utm_medium=email)
