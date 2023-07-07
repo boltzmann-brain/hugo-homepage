@@ -8,12 +8,17 @@ A list of my published papers and preprints in philosophy of machine learning, f
 
 ## Philosophy of Machine Learning
 
-"Should attention be all we need? The epistemic and ethical implications of unification in machine learning." Forthcoming in Conference on Fairness, Accountability, and Transparency (FAccT ’22). Co-authored with Nic Fishman.
+"Making Intelligence: Ethical Values in IQ and ML Benchmarks". In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23).
+
+- Uses lessons from feminist and anti-racist critiques of IQ benchmarks to point to similar risks in how we create machine learning benchmarks.
+- [Journal link](https://dl.acm.org/doi/10.1145/3593013.3593996), [Preprint](https://arxiv.org/abs/2209.00692v4)
+
+"Should attention be all we need? The epistemic and ethical implications of unification in machine learning." Forthcoming in Conference on Fairness, Accountability, and Transparency (FAccT '22). Co-authored with Nic Fishman.
 
 - Assesses the epistemic and ethical risks/benefits of the trend towards unified model architectures in machine learning.
-- [Preprint](https://arxiv.org/abs/2205.08377)
+- [Journal Link](https://dl.acm.org/doi/abs/10.1145/3531146.3533206), [Preprint](https://arxiv.org/abs/2205.08377)
 
-"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT ’21). Co-authored with Lizzie Kumar.
+"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT '21). Co-authored with Lizzie Kumar.
 
 - Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology.
 - Winner of FAccT 2021 best paper award.
