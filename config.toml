@@ -13,6 +13,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+enableRobotsTXT = false
+
 [params]
     author = "Leif Hancox-Li"
     description = "Leif Hancox-Li's personal website"
