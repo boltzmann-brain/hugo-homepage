@@ -11,9 +11,10 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/x9pn202amise
 #### Senior Data Scientist, Capital One
 2020 - present
 
-- Do research on fair and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
+- Do research on ethical and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
+- Lead evaluation efforts for large language models. Work with business stakeholders to create reliable human labels, help create synthetic data for human evaluation, experiment with hallucination detection methods, and investigate which automatic methods of evaluation adequately capture what stakeholders want.
 - Research and implement technical explainability solutions (SHAP, LIME, GAMs, gradient-based methods) for black-box machine learning models, customizing dashboards and visualizations to user needs.
-- Educate other Capital One data scientists on best practices for responsible AI through both written materials and talks.
+- Educate internal and external audiences on best practices for responsible AI through both written materials and talks.
 
 #### Senior Technical Writer, Capital One
 2019 - 2020
