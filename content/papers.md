@@ -6,9 +6,15 @@ draft: false
 
 A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. 
 
-## Philosophy of Machine Learning
+## AI Ethics / Philosophy of Machine Learning
 
-"Making Intelligence: Ethical Values in IQ and ML Benchmarks". In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23).
+"The Disagreement Problem in Faithfulness Metrics". Forthcoming as part of the NeurIPS 2023 [XAI in Action workshop](https://xai-in-action.github.io). Co-authored with Brian Barr, Noah Fatsi, Alden Richter, Caleb Mok, and Danny Proano.
+
+- Post-hoc explainability methods for black-box machine learning models are sometimes evaluated based on how "faithful" they are to the black-box model. Our paper presents empirical evidence that various faithfulness metrics proposed by researchers actually disagree when they are used to "rank" different explanation methods.
+- Preprint will be posted as soon as we've ironed out the typos!
+
+
+"Making Intelligence: Ethical Values in IQ and ML Benchmarks". In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Co-authored with [Borhane Blili Hamelin](https://borhane.xyz).
 
 - Uses lessons from feminist and anti-racist critiques of IQ benchmarks to point to similar risks in how we create machine learning benchmarks.
 - [Journal link](https://dl.acm.org/doi/10.1145/3593013.3593996), [Preprint](https://arxiv.org/abs/2209.00692v4)
