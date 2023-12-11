@@ -31,9 +31,10 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/x9pn202amise
 - Promoted to Senior Technical Writer after 1.5 years for proposing and leading initiatives to improve user experience of online documentation.
 
 #### Freelance API Technical Writer
-Part-time, 2018
+Part-time, 2018, then again in 2022
 
-- Write sample Python web applications and tutorials for MessageBird’s REST API. Click [here](https://github.com/messagebirdguides/verify-voice-guide-python) and [here](https://github.com/messagebirdguides/notifications-guide-python) for samples.
+- (in 2022 for Twilio) Audit and edit existing REST API tutorials (in Python, Ruby, JavaScript, and  Java) for accuracy, consistency, clarity, and relevance to customer needs.Test code samples in multiple programming languages and update tutorials to correct mistakes or improve readability. 
+- (in 2018 for MessageBird) Write sample Python web applications and tutorials for MessageBird’s REST API. Click [here](https://github.com/messagebirdguides/verify-voice-guide-python) and [here](https://github.com/messagebirdguides/notifications-guide-python) for samples.
 
 #### Editor, Research Square
 Part-time, 2017 - 2019
