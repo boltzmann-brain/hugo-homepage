@@ -1,7 +1,7 @@
 ---
 title: "This Week in Responsible AI: March 9, 2023"
 date: 2023-03-08T23:04:09-05:00
-draft: false
+draft: true
 ---
 
 ## Law/Policy

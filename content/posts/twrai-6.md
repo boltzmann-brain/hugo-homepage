@@ -1,7 +1,7 @@
 ---
 title: "The past two weeks in Responsible AI: Apr 3, 2023"
 date: 2023-04-03T13:04:09-05:00
-draft: false
+draft: true
 ---
 
 

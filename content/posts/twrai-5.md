@@ -1,7 +1,7 @@
 ---
 title: "This Week (10 days) in Responsible AI: March 20, 2023"
 date: 2023-03-19T23:04:09-05:00
-draft: false
+draft: true
 ---
 
 I was a little busy last week so this update is a few days delayed!
