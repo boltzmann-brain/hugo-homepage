@@ -4,8 +4,6 @@ date = 2024-04-26T21:36:35-04:00
 title = "Choicewashing PhD Admissions"
 +++
 
-# Choicewashing PhD Admissions
-
 Anne Helen Petersen's newsletter recently featured an interview that struck so many emotional chords in me that I had to write about it. [The Trouble with Passion](https://annehelen.substack.com/p/the-trouble-with-passion) contains an interview with sociology professor Erin A. Cech on her book for the same name, which is about "passion jobs". As a survivor of academia, so much of the interview resonated with me. I want to focus on one concept she introduces---"choicewashing"---and suggest that a very common argument for not reducing PhD admissions in the midst of the academic jobs crisis is essentially a form of choicewashing.
 
 I haven't had a chance to read Cech's book, so it's possible that I'm reading too much into the concept of choicewashing. I'm just going off what's in the interview. Here's how choicewashing is introduced there: _'the passion principle fosters and justifies inequality and segregation in the workplace by shifting the focus of a structural phenomenon to individual-level decisions and preferences, a process you call “choicewashing.”'_ Further, _'choicewashing often means that patterns of gender, race, and class segregation in higher education and beyond are brushed off as the benign outcome of individuals choosing to follow paths they are passionate about. This helps scaffold beliefs like the meritocratic ideology and undermines the perceived need for institutional change.'_
