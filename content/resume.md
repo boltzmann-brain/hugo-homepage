@@ -4,8 +4,6 @@ date: 2019-07-06T16:42:37-04:00
 draft: false
 ---
 
-My resume is also available [in PDF form](https://www.dropbox.com/s/x9pn202amisekhd/%20Leif%20Hancox-Li%20-%20TW-45.pdf?dl=0). Alternatively, you can view my [LinkedIn profile](https://www.linkedin.com/in/leif-hancox-li-1a6a7a132/).
-
 ## Work
 
 #### Senior Data Scientist, Capital One
@@ -14,6 +12,7 @@ My resume is also available [in PDF form](https://www.dropbox.com/s/x9pn202amise
 - Do research on ethical and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
 - Lead evaluation efforts for large language models. Work with business stakeholders to create reliable human labels, help create synthetic data for human evaluation, experiment with hallucination detection methods, and investigate which automatic methods of evaluation adequately capture what stakeholders want.
 - Research and implement technical explainability solutions (SHAP, LIME, GAMs, gradient-based methods) for black-box machine learning models, customizing dashboards and visualizations to user needs.
+- Published multiple papers on ethical values in machine learning at venues like FAccT, winning best paper award at FAccT 2021. Served multiple times on FAccT program committee. Currently serving as area chair for FAccT 2024.
 - Educate internal and external audiences on best practices for responsible AI through both written materials and talks.
 
 #### Senior Technical Writer, Capital One
