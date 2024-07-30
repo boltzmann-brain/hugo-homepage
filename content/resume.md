@@ -6,8 +6,15 @@ draft: false
 
 ## Work
 
+#### Applied Scientist, Vijil
+2024-present
+
+- Improve and create automated methods to evaluate the trustworthiness and ethical aspects of large language models. Conducted quality control on red-teaming prompts from academic research; evaluated and improved on methods for detecting undesirable model responses.
+- Contribute to codebase containing large quantities of red-teaming prompt objects and detectors of undesirable model responses.
+- Design evaluation harnesses for both safety and performance aspects of LLMs, using latest academic research as a guide.
+
 #### Senior Data Scientist, Capital One
-2020 - present
+2020 - 2024
 
 - Do research on ethical and explainable machine learning, including internal user studies and [peer-reviewed work](/papers) on methodological issues.
 - Lead evaluation efforts for large language models. Work with business stakeholders to create reliable human labels, help create synthetic data for human evaluation, experiment with hallucination detection methods, and investigate which automatic methods of evaluation adequately capture what stakeholders want.
