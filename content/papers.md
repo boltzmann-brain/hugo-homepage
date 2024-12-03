@@ -8,23 +8,28 @@ A list of my published papers and preprints in philosophy of machine learning, f
 
 ## AI Ethics / Philosophy of Machine Learning
 
-"[Unsocial Intelligence: an Investigation of the Assumptions of AGI Discourse](https://arxiv.org/abs/2401.13142)". Forthcoming in AIES 2024. Co-authored with Borhane Blili-Hamelin and Andrew Smart.
+["Is ETHICS about ethics? Evaluating the ETHICS benchmark"](https://evaleval.github.io/accepted_papers/EvalEval_24_Hancox-Li.pdf). Co-first author with Borhane Blili-Hamelin. Forthcoming at the Neurips 2024 EvalEval workshop.
+
+"Unsocial Intelligence: an Investigation of the Assumptions of AGI Discourse". AIES 2024. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7(1), 141-155. Co-authored with Borhane Blili-Hamelin and Andrew Smart.
+
+- Taxonomizes the different defintiions of AGI and show how they each make their own value-laden assumptions.
+- [Journal link](https://ojs.aaai.org/index.php/AIES/article/view/31625), [preprint]((https://arxiv.org/abs/2401.13142))
 
 "[The Disagreement Problem in Faithfulness Metrics](https://openreview.net/forum?id=KPtW2SU0my)". In the NeurIPS 2023 [XAI in Action workshop](https://xai-in-action.github.io). Co-authored with Brian Barr, Noah Fatsi, Alden Richter, Caleb Mok, and Danny Proano.
 
 - Post-hoc explainability methods for black-box machine learning models are sometimes evaluated based on how "faithful" they are to the black-box model. Our paper presents empirical evidence that various faithfulness metrics proposed by researchers actually disagree when they are used to "rank" different explanation methods.
 
-"Making Intelligence: Ethical Values in IQ and ML Benchmarks". In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Co-authored with [Borhane Blili Hamelin](https://borhane.xyz).
+"Making Intelligence: Ethical Values in IQ and ML Benchmarks". In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Co-first author with [Borhane Blili Hamelin](https://borhane.xyz).
 
 - Uses lessons from feminist and anti-racist critiques of IQ benchmarks to point to similar risks in how we create machine learning benchmarks.
 - [Journal link](https://dl.acm.org/doi/10.1145/3593013.3593996), [Preprint](https://arxiv.org/abs/2209.00692v4)
 
-"Should attention be all we need? The epistemic and ethical implications of unification in machine learning." Forthcoming in Conference on Fairness, Accountability, and Transparency (FAccT '22). Co-authored with Nic Fishman.
+"Should attention be all we need? The epistemic and ethical implications of unification in machine learning." Forthcoming in Conference on Fairness, Accountability, and Transparency (FAccT '22). Co-first author with Nic Fishman.
 
 - Assesses the epistemic and ethical risks/benefits of the trend towards unified model architectures in machine learning.
 - [Journal Link](https://dl.acm.org/doi/abs/10.1145/3531146.3533206), [Preprint](https://arxiv.org/abs/2205.08377)
 
-"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT '21). Co-authored with Lizzie Kumar.
+"Epistemic values in feature importance methods: Lessons from feminist epistemology". Conference on Fairness, Accountability, and Transparency (FAccT '21). Co-first author with Lizzie Kumar.
 
 - Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology.
 - Winner of FAccT 2021 best paper award.
@@ -34,7 +39,7 @@ A list of my published papers and preprints in philosophy of machine learning, f
 
 - Argues that reproducibility definitions in ML are too focused on methods reproducibility, when in fact we need different types of reproducibilities for different types of claims made by ML experiments.
 
-"Robustness in Machine Learning Explanations: Does It Matter?" Conference on Fairness, Accountability, and Transparency (FAccT ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
+"Robustness in Machine Learning Explanations: Does It Matter?" Conference on Fairness, Accountability, and Transparency (FAccT '20), January 27-30, 2020, Barcelona, Spain. ACM, New York, NY, USA. 
 
 - Applies the concept of derivational robustness to explanations generated for black-box machine learning models.
 - [Journal link](https://dl.acm.org/doi/abs/10.1145/3351095.3372836), [preprint](http://philsci-archive.pitt.edu/16734/)
