@@ -6,11 +6,11 @@ draft: false
 
 ## Work
 
-#### Applied Scientist, Vijil
+#### Senior Applied Scientist, Vijil
 2024-present
 
 - Improve and create automated methods to evaluate the trustworthiness and ethical aspects of large language models. Conducted quality control on red-teaming prompts from academic research; evaluated and improved on methods for detecting undesirable model responses.
-- Contribute to codebase containing large quantities of red-teaming prompt objects and detectors of undesirable model responses.
+- Contribute to and maintain codebase containing large quantities of red-teaming prompt objects and detectors of undesirable model responses.
 - Design evaluation harnesses for both safety and performance aspects of LLMs, using latest academic research as a guide.
 
 #### Senior Data Scientist, Capital One
@@ -83,10 +83,10 @@ Part-time, 2017 - 2019
 
 - Won prize for research in physics and two popular science writing prizes.
 
-## Skills
+## Academic Service
 
-Machine learning: Tree ensemble models, explainability methods (SHAP, ICE, etc.), fairness definitions
+FAccT: Area Chair, Reviewer
 
-Programming: Python, Kubernetes, Java, C#
+NeurIPS: Reviewer, Ethics Reviewer
 
-Others: Technical communication, user research, project management
+ICML: Ethics Reviewer
