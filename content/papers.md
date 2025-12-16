@@ -8,7 +8,7 @@ A list of my published papers and preprints in philosophy of machine learning, f
 
 ## AI Ethics / Philosophy of Machine Learning
 
-[Position: Stop treating "AGI" as the north-star goal of AI research](https://arxiv.org/abs/2502.03689). Third author (contributed a large part of the writing and research.) Forthcoming at ICML 2025.
+[Position: Stop treating "AGI" as the north-star goal of AI research](https://arxiv.org/abs/2502.03689). Third author (contributed a large part of the writing and research.) ICML 2025.
 
 ["Is ETHICS about ethics? Evaluating the ETHICS benchmark"](https://evaleval.github.io/accepted_papers/EvalEval_24_Hancox-Li.pdf). Co-first author with Borhane Blili-Hamelin. Presented at the NeurIPS 2024 EvalEval workshop and forthcoming in a Springer special issue.
 
